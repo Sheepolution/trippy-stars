@@ -1,0 +1,54 @@
+Trippy Stars - Made by Daniël Haazen, also known as Sheepolution. http://danielhaazen.com/
+Made in LÖVE - http://love2d.org/
+
+The stars are made by random values. You can edit these values by editing the 'randomvalues.txt' file in..
+Windows: Appdata/roaming/Trippy Stars
+Mac:  /Users/user/Library/Application Support/Trippy Stars
+Linux: $XDG_DATA_HOME/Trippy Stars/
+
+These are the standard values and what they mean:
+If it says random, it means that it's between 0 and the number.
+Minimum points a star has: 		25		-	Every star will have more than this number of points.
+Random additional points: 		25
+Minimal circle radius: 			5 		- 	The circles grow and shrimp. This is the minimal radius it can shrimp to.
+Random inside circle radius: 	610
+Random adding outside radius:	200		- 	This will be added to the inside radius.
+Minimal spinning speed:			-100	- 	This is a negative number so that it can spin backwards.
+Random adding spinning speed:	200 	- 	For a 50/50 chance you make this the absolute number of the minimal spinning speed * 2.
+Random grow speed:				500		- 	How fast the circle grow and shrimp.
+Random line width: 				10
+
+DO NOT CHANGE THESE ABOVE. It has no effect. You need to change the one in your Appdata folder.
+If you want to reset the changes you made you can simply delete it, and it will return with the standard numbers.
+
+To change your screen size, change the numbers in settings.txt as width,height.
+
+I hope you enjoy Trippy Stars. You can always contact me on danielhaazen@hotmail.com or contact@danielhaazen.com
+
+
+
+LICENSE
+______________________________________________
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+You are free:
+
+to Share — to copy, distribute and transmit the work
+to Remix — to adapt the work
+
+Under the following conditions:
+Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+Noncommercial — You may not use this work for commercial purposes.
+Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
+With the understanding that:
+Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+Other Rights — In no way are any of the following rights affected by the license:
+	Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+	The author's moral rights;
+	Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
+
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
